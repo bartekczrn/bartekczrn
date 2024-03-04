@@ -1,6 +1,11 @@
+<hr/>
+<br/>
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bartekczrn&label=Profile%20views&color=0e75b6&style=flat" alt="bartekczrn" /> </p>
 
 <h1 align="center">Hi There 👋, I'm Bartosz</h1>
+<br/>
 <h3 align="center">Educated as IT technician with specialized expertise in web development, operating systems, programming, and computer networks.</h3>
 <br/>
 
@@ -23,9 +28,11 @@
   </a>
 </div>
 
+
+<br/>
+<br/>
 <br/>
 <hr/>
-<br/>
 <br/>
 <br/>
 
@@ -38,11 +45,14 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,figma" /><br>
 </div>
 
+
+<br/>
+<br/>
 <br/>
 <hr/>
 <br/>
 <br/>
-<br/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -54,5 +64,7 @@
 </div>
 
 
+<br/>
+<br/>
 <br/>
 <hr/>
