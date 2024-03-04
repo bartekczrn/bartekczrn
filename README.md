@@ -1,8 +1,6 @@
-<hr/>
-<br/>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file)
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bartekczrn&label=Profile%20views&color=0e75b6&style=flat" alt="bartekczrn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bartekczrn&label=Profile%20views&color=0e75b6&style=flat" alt="bartekczrn" /> </p>
 
 <h1 align="center">Hi There 👋, I'm Bartosz</h1>
 <br/>
