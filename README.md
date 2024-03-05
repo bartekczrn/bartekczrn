@@ -51,13 +51,36 @@
 <br/>
 
 
+<h1 align=center>📁 My Projects 📁</h1>
+<br>
+<div align=center>
+ 
+[![To Do App](https://github-readme-stats.vercel.app/api/pin/?username=bartekczrn&repo=to-do&theme=nord&border_radius=10)](https://github.com/bartekczrn/to-do)
+
+</div>
+
+<div align=center>
+ 
+[![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=bartekczrn&repo=calculator&theme=nord&border_radius=10)](https://github.com/bartekczrn/calculator)
+
+</div>
+
+
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
+
+
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bartekczrn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bartekczrn&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bartekczrn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bartekczrn&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
