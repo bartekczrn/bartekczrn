@@ -5,9 +5,11 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **A Netflix Clone**
+ 
+ 🔭 I’m currently working on A **Netflix clone**
  
  🌱 I’m currently learning **Vue.js**
+ 
 </div>
 <br/>
 
