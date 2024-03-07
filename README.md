@@ -36,7 +36,7 @@
 <br/>
 
 
-<h1 align="center">⚒️ Languages, Frameworks and Tools ⚒️</h1>
+<h1 align="center">🌐 Languages, Frameworks and Tools 🌐</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,php,mysql,python" />
@@ -76,7 +76,7 @@
 <br/>
 
 
-<h1 align="center">⚡ Stats ⚡</h1>
+<h1 align="center">📊 Stats 📊</h1>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bartekczrn&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10" alt="readme stats" />
