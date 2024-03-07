@@ -55,6 +55,13 @@
 
 <h1 align=center>📁 My Projects 📁</h1>
 <br>
+
+<div align=center>
+ 
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=bartekczrn&repo=weather-app&theme=nord&border_radius=10)](https://github.com/bartekczrn/weather-app)
+
+</div>
+
 <div align=center>
  
 [![To Do App](https://github-readme-stats.vercel.app/api/pin/?username=bartekczrn&repo=to-do&theme=nord&border_radius=10)](https://github.com/bartekczrn/to-do)
