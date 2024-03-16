@@ -1,5 +1,5 @@
-
 ![Header](./bartekczrn_header.png)
+
 <br/>
 <h3 align="center">Educated as IT technician with specialized expertise in web development, operating systems, programming, and computer networks.</h3>
 <br/>
